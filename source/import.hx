@@ -31,6 +31,7 @@ import mobile.flixel.FlxHitbox;
 import mobile.flixel.FlxButton;
 import mobile.flixel.input.FlxMobileInputManagerByString;
 import mobile.flixel.input.FlxMobileInputManager;
+import mobile.flixel.input.FlxMobileInputID;
 
 #if sys
 import sys.*;
