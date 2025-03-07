@@ -9,6 +9,9 @@ import backend.WeekData;
 import backend.Song;
 import backend.Section;
 import backend.Rating;
+#if VIDEOS_ALLOWED
+import backend.VideoSpriteManager;
+#end
 
 import flixel.FlxBasic;
 import flixel.FlxObject;
