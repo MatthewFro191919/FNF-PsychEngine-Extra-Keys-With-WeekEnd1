@@ -25,6 +25,13 @@ import mobile.backend.MobileData;
 import mobile.input.MobileInputManager;
 import mobile.backend.TouchUtil;
 
+//Flixel Mobile Shit
+import mobile.flixel.FlxVirtualPad;
+import mobile.flixel.FlxHitbox;
+import mobile.flixel.FlxButton;
+import mobile.flixel.input.FlxMobileInputManagerByString;
+import mobile.flixel.input.FlxMobileInputManager;
+
 #if sys
 import sys.*;
 import sys.io.*;
